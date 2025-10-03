@@ -2,6 +2,8 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
+<br>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/aditya-patel-574776293/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -19,7 +21,7 @@
 ###
 
 <p align="center">
-🎓 3rd-year CSE student at Chandigarh University <br>
+🎓 4th-year CSE student at Chandigarh University <br>
 💻 Passionate about Web Development<br>
 🚀 Currently working on <b>Pitch Your Startup</b> project 
 </p>
