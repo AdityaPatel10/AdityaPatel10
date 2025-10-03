@@ -1,45 +1,52 @@
-# 👋 Hi, I'm Aditya Patel  
+<h1 align="center">Hey 👋What's Up?</h1>
 
-🎓 3rd-year Computer Science Engineering student at **Chandigarh University**  
-💻 Passionate about **Web Development**  
-🚀 Currently building **Pitch Your Startup** – a platform to showcase and validate startup ideas  
+###
 
----
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+</div>
 
-## 🌟 About Me
-- 🌱 Currently learning **Next.js**  
-- 💡 Interested in combining **technology and innovation** to solve real-world problems  
-- ⚡ Believe in: *Code. Learn. Share. Build.*  
+###
 
----
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
 
-## 🛠 Tech Stack
-- **Languages:** Java, Python, JavaScript, TypeScript, C/C++  
-- **Frontend:** React.js, Next.js, Vite, Tailwind CSS  
-- **Databases:** MongoDB, PostgreSQL, MySQL  
-- **Others:** Appwrite, Firebase, Blockchain, MATLAB, ThingSpeak  
+###
 
----
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-## 🚀 Current Project
-### 📌 Pitch Your Startup  
-A platform designed to help aspiring entrepreneurs **present, validate, and refine startup ideas** with community feedback and structured pitch-building tools.  
+###
 
-🔗 *Repo coming soon / (https://github.com/AdityaPatel10/Pitch-Your-Startup.git)*  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 
----
-
-## 📈 GitHub Stats
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaPatel10&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaPatel10&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdityaPatel10&theme=tokyonight)
----
-
-## 🌐 Connect with Me
-- 💼 [LinkedIn](www.linkedin.com/in/aditya-patel-574776293)  
-- 📧 Email: aditya97556@gmail.com  
-- 🌍 Portfolio: *Coming soon*  
-
----
-
-⭐️ *Always learning, always building.*  
+###
