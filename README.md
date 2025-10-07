@@ -16,7 +16,7 @@
   </a>
 </div>
 
-<h1 align="center">Hey 👋 What's Up? I'm Aditya Patel</h1>
+<h1 align="center"> Hey 👋 What's Up? I'm Aditya Patel </h1>
 
 ###
 
